@@ -159,12 +159,12 @@ WHERE Payment.PaymentType = 'Cash'
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/arosharandew/MediBase-Hospital-Management-Database-System.git
    ```
 
 2. Open your SQL tool.
 
-3. Execute `hospital_db.sql`.
+3. Execute `MediBase.sql`.
 
 4. Run the insert statements to populate sample data.
 
@@ -175,9 +175,8 @@ WHERE Payment.PaymentType = 'Cash'
 ## 📁 File Structure
 
 ```
-hospital_db.sql
+MediBase.sql
 README.md
-EERD_Diagram.pdf
 ```
 
 ---
@@ -192,6 +191,3 @@ If you find issues or have improvements:
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
